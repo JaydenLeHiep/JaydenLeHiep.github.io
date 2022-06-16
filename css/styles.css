@@ -1,0 +1,64 @@
+body{
+    padding: 3% 15%;
+    text-align: center;
+    
+    
+}
+p{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: medium;
+}
+
+/* title */
+#title{
+    border-bottom: 2px solid #000;
+    margin-bottom: 20px;
+
+}
+/* opening */
+h1{
+    font-size: 100px;
+    line-height: .8em;
+    font-family: 'Lexend Deca',sans-serif;
+    color: #332e2e;
+    text-align: left;
+}
+.p-opening{
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+}
+.hiep-img{
+    border-radius: 100%;
+}
+
+/* about-me */
+.square-about-me{
+    background-color: #D3EBCD;
+    height: 300px;
+    font-weight: 500px;
+    border: 2px solid #000;
+    border-radius: 40px;
+    margin-top: 100px;
+}
+.text-aboutme{
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 70px;
+}
+
+/* skill */
+#skill{
+    margin-top: 100px;
+
+}
+
+/* Hiring */
+#hiring{
+    margin-top: 100px;
+}
+
+footer{
+    padding: 3% 15%;
+    text-align: center;
+    border-top: 2px solid #000;
+    margin-top: 50px;
+}
